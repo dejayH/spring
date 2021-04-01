@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: eureka-server
+server:
+  port: 2001
+
+eureka:
+  instance:
+    # 集群中用注解名互相取分
+    hostname: eureka1
+  client:
+    # 针对单台服务器,不向自己注册,也不从自己拉取
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost:2001/eureka
+  server:
+    # 禁用自我保护模式
+    enable-self-preservation: false

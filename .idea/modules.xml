@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sp01-common/sp01-common.iml" filepath="$PROJECT_DIR$/sp01-common/sp01-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp02-itemservice/sp02-itemservice.iml" filepath="$PROJECT_DIR$/sp02-itemservice/sp02-itemservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp03-userservices/sp03-userservices.iml" filepath="$PROJECT_DIR$/sp03-userservices/sp03-userservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp04_orderservice/sp04_orderservice.iml" filepath="$PROJECT_DIR$/sp04_orderservice/sp04_orderservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp05-eureka/sp05-eureka.iml" filepath="$PROJECT_DIR$/sp05-eureka/sp05-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp06-ribbon/sp06-ribbon.iml" filepath="$PROJECT_DIR$/sp06-ribbon/sp06-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp08-hystrix-dashboard/sp08-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/sp08-hystrix-dashboard/sp08-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp09-feign/sp09-feign.iml" filepath="$PROJECT_DIR$/sp09-feign/sp09-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp10-turbine/sp10-turbine.iml" filepath="$PROJECT_DIR$/sp10-turbine/sp10-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp11-zuul/sp11-zuul.iml" filepath="$PROJECT_DIR$/sp11-zuul/sp11-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
+    </modules>
+  </component>
+</project>
